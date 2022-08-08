@@ -6,4 +6,4 @@ In this project I mainly wanted to test the hypothesis that there may be a corre
 The libraries used in this project include Pandas and Numpy, the usual suspects, as well as Matplotlib and Seaborn which allowed me to make my graphs for better 
 visualizations, as well as Scipy Stats which enabled me to conduct t-tests.
 
-Should you want to check out the project, you can do so here at: https://medium.com/@adamvu1087/energy-consumption-in-the-us-d08dcf7b062e
+If you want to check out the project, you can do so here at: https://medium.com/@adamvu1087/energy-consumption-in-the-us-d08dcf7b062e
