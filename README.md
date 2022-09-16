@@ -7,3 +7,4 @@ The libraries used in this project include Pandas and Numpy, the usual suspects,
 visualizations, as well as Scipy Stats which enabled me to conduct t-tests.
 
 If you want to check out the project, you can do so here at: https://medium.com/@adamvu1087/energy-consumption-in-the-us-d08dcf7b062e
+
